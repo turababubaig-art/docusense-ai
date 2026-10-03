@@ -12,7 +12,8 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "exceljs": "^3.10.0",
-    "lucide-react": "^1.46.0",
+    "fabric": "^7.4.0",
+    "lucide-react": "^1.49.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "tailwindcss": "^4.3.3"

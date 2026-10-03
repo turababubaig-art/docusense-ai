@@ -1,0 +1,13 @@
+text,label
+"Invoice number 1024 Total amount 50000 Payment due 15 September",invoice
+"Bill from ABC company Amount due 25000 Tax 4500",invoice
+"Purchase invoice Total price 150000 Vendor ABC Ltd",invoice
+"This agreement is between Company A and Company B",contract
+"The employee agrees to the terms and conditions of this contract",contract
+"This contract shall remain valid for two years",contract
+"John Smith Python JavaScript Machine Learning Software Engineer",resume
+"Education Bachelor Computer Science Experience 3 years",resume
+"Skills Python C++ React TensorFlow Data Science",resume
+"Annual business report Revenue increased by 25 percent",report
+"Company performance report for the financial year",report
+"Sales increased significantly during the fourth quarter",report
